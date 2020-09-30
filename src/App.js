@@ -107,7 +107,7 @@ const ChannelSelector = (props) => {
                 }}
                 data-label="row"
                 style={{
-                  fontSize: 9,
+                  fontSize: 10,
                   padding: 8,
                   borderBottom: "1px dotted black",
                   cursor: "pointer"
