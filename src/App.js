@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "@emotion/styled";
 
+/* Hello world */
+
 const songs = [
   { title: "Utopia", singer: "Austra", duration: "3:39" },
   { title: "Utopia", singer: "Yacht", duration: "3:12" },
@@ -37,8 +39,8 @@ const ChannelSelector = (props) => {
         style={{
           marginLeft: 12,
           marginRight: 12,
-            height: 159,
-            background: 'grey',
+            height: 12,
+            background: 'lemonyellow',
 
           display: "flex",
           alignItems: "center",
