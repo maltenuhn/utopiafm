@@ -37,7 +37,9 @@ const ChannelSelector = (props) => {
         style={{
           marginLeft: 12,
           marginRight: 12,
-          height: 30,
+            height: 159,
+            background: 'grey',
+
           display: "flex",
           alignItems: "center",
           cursor: "pointer",
