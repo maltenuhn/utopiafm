@@ -15,7 +15,7 @@ const songs = [
 const channelList = [
   "Utopia FM (default)",
   "Indie Summer",
-  "Hangover Club",
+  "Rye Club",
   "Tokyo Disco",
   "Friday Nite Heat",
 ];
